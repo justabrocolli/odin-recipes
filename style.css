@@ -1,0 +1,29 @@
+* {
+   /* outline: 2px solid red; */
+  }
+
+H1{
+    font-size: 36px;
+}
+h1,p{
+    text-align: center;
+}
+p{
+    padding-bottom: 30px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.title{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+#back{
+    display: block;
+    margin-left: 90%;
+    padding-top: 50px;
+
+}
